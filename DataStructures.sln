@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{BB13FADD-BEC5-435B-BFE3-BA1099B5D47E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{BB13FADD-BEC5-435B-BFE3-BA1099B5D47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB13FADD-BEC5-435B-BFE3-BA1099B5D47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB13FADD-BEC5-435B-BFE3-BA1099B5D47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
