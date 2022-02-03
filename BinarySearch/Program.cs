@@ -1,11 +1,13 @@
-﻿var a = new int[100];
+﻿using Shared;
+
+var a = new int[100];
 var beg = 0;
 var end = 0;
 var mid = 0;
 
 Console.WriteLine("Begin...");
 
-var items = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }; // Data source
+var items = TestData.Naturals();
 
 for(var i = 0; i <= items.Length - 1; i++)
 {
