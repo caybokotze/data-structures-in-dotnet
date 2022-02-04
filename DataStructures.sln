@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{ACD3EBAA-316E-4765-B7C6-43A686BEA268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree.Tests", "BinarySearchTree.Tests\BinarySearchTree.Tests.csproj", "{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6BCB270-B61B-46A6-A6A5-B7AC069762B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD3EBAA-316E-4765-B7C6-43A686BEA268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD3EBAA-316E-4765-B7C6-43A686BEA268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD3EBAA-316E-4765-B7C6-43A686BEA268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD3EBAA-316E-4765-B7C6-43A686BEA268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
