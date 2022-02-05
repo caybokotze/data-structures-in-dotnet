@@ -1,5 +1,7 @@
 ﻿using Shared;
 
+namespace BinarySearch;
+
 public class BinarySearch : ISearchable
 {
     public int? Find(int[] values, int find)
@@ -36,5 +38,3 @@ public class BinarySearch : ISearchable
         return null;
     }
 }
-
-

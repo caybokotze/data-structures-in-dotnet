@@ -3,5 +3,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D824950F-7EEF-43BA-B4DA-548ABF5F74CE::net6.0::BinarySearchTree.Tests.Tests+WhenAddingValuesToABinaryTree.DoesAddToTree&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::12CD8B69-15D9-4C6B-AFE4-972827E2C6F6::net6.0::BubbleSort.Tests.BubbleSortTests+WhenSorting.ShouldSort&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::91A80BDF-9878-48DD-AEB9-95A68E342639::net6.0::BinarySearch.Tests.BinarySearchTests+WhenSearchingForValue.ShouldReturnCorrectIndex&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
