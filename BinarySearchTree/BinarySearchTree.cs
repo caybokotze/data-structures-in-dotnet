@@ -1,4 +1,6 @@
-﻿public class Node 
+﻿namespace BinarySearchTree;
+
+public class Node 
 {
     public Node? LeftNode { get; set; }
     public Node? RightNode { get; set; }

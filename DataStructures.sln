@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinaryS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree.Tests", "BinarySearchTree.Tests\BinarySearchTree.Tests.csproj", "{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{00AAE614-80C7-4CCE-ADD3-FA66852599C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort.Tests", "BubbleSort.Tests\BubbleSort.Tests.csproj", "{12CD8B69-15D9-4C6B-AFE4-972827E2C6F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D824950F-7EEF-43BA-B4DA-548ABF5F74CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AAE614-80C7-4CCE-ADD3-FA66852599C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AAE614-80C7-4CCE-ADD3-FA66852599C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AAE614-80C7-4CCE-ADD3-FA66852599C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AAE614-80C7-4CCE-ADD3-FA66852599C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CD8B69-15D9-4C6B-AFE4-972827E2C6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CD8B69-15D9-4C6B-AFE4-972827E2C6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CD8B69-15D9-4C6B-AFE4-972827E2C6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CD8B69-15D9-4C6B-AFE4-972827E2C6F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
